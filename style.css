@@ -5,4 +5,6 @@ color: whitesmoke;
 }
 section
     background-color: rgb(209, 53, 53);
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
