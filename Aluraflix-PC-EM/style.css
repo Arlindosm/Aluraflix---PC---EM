@@ -1,14 +1,16 @@
-body{
-background-color:rgb(51, 51, 180);
-color: white;
+body {
+    background-color: rgb(51, 51, 180);
+    color: white;
 }
-section{
+
+section {
     background-color: rgb(209, 53, 53);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 5%;
 }
