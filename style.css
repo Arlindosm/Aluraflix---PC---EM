@@ -23,5 +23,6 @@ img {
 
     display: flex;
     overflow-x: auto;
+    overflow-y: auto;
     gap: 10px;
 }
