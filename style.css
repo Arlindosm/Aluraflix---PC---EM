@@ -21,7 +21,7 @@ img {
 
 .categoria-videos {
 
-    display: table-row;
+    display: table-column;
     overflow-x: auto;
     overflow-y: auto;
     gap: 10px;
