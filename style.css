@@ -24,5 +24,5 @@ img {
     display: table-row;
     overflow-x: auto;
     overflow-y: auto;
-    gap: 5px;
+    gap: 10px;
 }
