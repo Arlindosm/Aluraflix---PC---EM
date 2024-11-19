@@ -43,6 +43,9 @@ img {
 .categoria-videos img:hover {
     opacity: 1.0;
 }
+.categoria h2{
+    color: rgb(42, 122, 228);
+}
 
 h1 {
     font-size: 25px;
