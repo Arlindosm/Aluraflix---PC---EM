@@ -34,10 +34,12 @@ img {
 
 }
 
-.categoria-video img {
-    opacity: 0.5;
-    height: 200px;
+.categoria-videos img{
+
+opacity: 0.5;
+height: 200px;
 }
+
 
 h1 {
     font-size: 25px;
