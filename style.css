@@ -41,7 +41,7 @@ img {
 }
 
 .categoria-videos img:hover {
-    opacity: 1.0;
+    opacity: 0.5;
 }
 
 h1 {
