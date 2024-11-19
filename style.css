@@ -34,11 +34,11 @@ img {
 
 }
 
-.categoria-video img {
+.categoria-vídeo img {
     opacity: 0.5;
     height: 200px;
 
-    .categoria-video img:hover {
+    .categoria-vídeo img:hover {
         opacity: 1.0;
     }
 }
