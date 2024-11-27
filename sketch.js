@@ -3,6 +3,8 @@ function setup(english) {
 }
 
 function draw(donate) {
+
+    background(220)
     //when mouse button is pressed, circles turn black
     if (mouseIsPressed === true) {
         fill(0);
