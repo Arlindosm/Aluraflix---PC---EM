@@ -12,6 +12,7 @@ var GLOBALCAR = (function () {
 GLOBALCAR.addItem("Gol");
 GLOBALCAR.getQueue();
 GLOBALCAR.add("Gol"); // => 1 GLOBALCAR.add("Palio"); // => 2 GLOBALCAR.add("Corsa"); // => 3 
+GLOBALCAR.get(); // => "Gol - Palio - Corsa" 
 GLOBALCAR; // => Object {add: function, get: function} 
 
 
